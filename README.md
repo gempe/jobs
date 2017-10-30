@@ -8,7 +8,7 @@ Bem vindo!
 Nesse repositório estão todas as oportunidades abertas para entrar no time de tecnologia da Gempe.
 Elas estão listadas como issues aqui: https://github.com/gempe/jobs/issues
 
-Você pode se candidatar para qualquer uma das vagas mandando um e-mail para contato@gempe.com.br com o título da issue como assunto.
+Você pode se candidatar para qualquer uma das vagas mandando um e-mail para developer@gempe.com.br com o título da issue como assunto.
 
 Boa sorte && happy coding :D 
 
