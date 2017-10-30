@@ -19,6 +19,6 @@ Welcome dear developer!
 On this repo you find all technology related open oportunities at Gempe Team.
 They are listed as issues at https://github.com/gempe/jobs/issues.
 
-You can apply for any that you have been interested and sending an e-mail for contato@gempe.com.br with the issue title as subject.
+You can apply for any that you have been interested and sending an e-mail for developer@gempe.com.br with the issue title as subject.
 
 Good luck && happy coding :D
