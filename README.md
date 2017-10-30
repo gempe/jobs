@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://gempe.com.br/gempe-brand.png" alt="Gempe" width="200" />
+<img src="http://gempe.com.br/gempe-logo.png" alt="Gempe" width="200" />
 </p>
 <br/>
 
